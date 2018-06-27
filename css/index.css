@@ -1,0 +1,82 @@
+.blue
+{
+    min-height: 10vh;
+}
+.grey
+{
+    min-height: 85vh;
+}
+footer
+{
+    margin-top: 10px;
+    min-height: 5vh;
+}
+body div
+{
+    font-family:monospace;    
+}
+.err_red
+{
+    color:firebrick;
+    font-size: 12px;
+}
+footer
+{   
+    width: auto;
+    background-color:#e7e7e7;
+}
+.darkblue
+{
+    background-color: aqua;
+}
+.grey
+{
+    margin-top: -20px;
+    background-color:aliceblue;
+}
+.message
+{
+    background-color: white;
+    border:1px solid blue;
+    border-top: none;
+}
+.text-muted
+{
+    margin-left: 6px;
+}
+.heart_button
+{
+    border:1px solid blue;
+    background: none;
+    height: 20px;
+    margin-right: 2px;
+}
+.heart-button span
+{
+    color:blue;
+    font-size: 9px;
+}
+.fav_show_hide_0
+{
+    background-color: blue;
+}
+.fav_show_hide_0 span
+{
+     color:white;   
+}
+.fav-show_hide_1
+{
+    background-color: white;
+}
+.fav-show_hide_1 span
+{
+    color:blue;
+}
+.user_err
+{
+    color: red;
+}
+.form-padding
+{
+    padding:0px 10px;
+}
